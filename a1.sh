@@ -1,8 +1,7 @@
 #!/bin/bash
+
+# The different numbers of threads to use.
 t=(1, 2, 4, 8)
-
-# Run this script with ./a1.sh [i] where i is the part of the assignment you wish to run.
-
 
 # For each part of the assignment
 for i in {0..3}
